@@ -1,4 +1,5 @@
-![88fe25a42e811f0ae4fe68596074aae_3](https://github.com/user-attachments/assets/5876bbf4-95eb-4ea3-adfa-3f350f809b64)
+![671f2ce444011f0a89412e0f91208af_1](https://github.com/user-attachments/assets/632b0a80-bdd3-49fb-b74c-edad6cab184d)
+
 # 💫 Обо мне:
 Меня зовут Илья.<br>Я специалист в области Data Science.<br>Я всегда открыт для сотрудничества и готов обмениваться знаниями и идеями.<br>В своей работе я использую инструменты, такие как Python, Jupyter Notebook, pandas, NumPy, SciPy, Plotly, Matplotlib, seaborn и SQL.
 
